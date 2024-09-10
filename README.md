@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is the page where I upload my work from my studies in software engineering.
 
 <!--
 **tproykov/tproykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
