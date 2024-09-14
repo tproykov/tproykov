@@ -1,13 +1,10 @@
 ## Hi there 👋 
 Here I upload my work from my studies in Software engineering.
-| Jun 2024 | SoftUni - Programming Basics with Java |
-| Jun 2024 | SoftUni - Java Fundamentals            |
-| Dec 2024 | SoftUni - MySQL                        |
-| Dec 2024 | SoftUni - AI Basics                    |
-
-- Jul 2015 MSc Psychological Therapies
-- Jul 2008 PhD Social Work
-- Jul 1994 MA Psychology
+- Jun 2024 - SoftUni - Programming Basics with Java
+- Jun 2024 - SoftUni - Java Fundamentals
+- Dec 2024 - SoftUni - MySQL
+- Dec 2024 - SoftUni - AI Basics
+Previous education: 2015 MSc Psychological Therapies; 2008 PhD Social Work; 1994 MA Psychology
 
 <!--
 **tproykov/tproykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
