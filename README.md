@@ -1,9 +1,9 @@
 ## Hi there 👋 
-Here I upload my work from my studies in Software engineering.
+Here I upload my work from my studies in Software Engineering, as well as other projects.
 - Jun 2024 - SoftUni - Programming Basics with Java
 - Jun 2024 - SoftUni - Java Fundamentals
-- Dec 2024 - SoftUni - MySQL
-- Dec 2024 - SoftUni - AI Basics
+- Oct 2024 - SoftUni - MySQL
+- Nov 2024 - SoftUni - AI Basics
 
 Previous education: 2015 MSc Psychological Therapies; 2008 PhD Social Work; 1994 MA Psychology
 
