@@ -1,12 +1,12 @@
 ## Hello 👋 
-Here I upload my work from my studies in Software Engineering, as well as other projects.
+Here I upload my work from my studies in Software Engineering, as well as my other current projects 🚀.
 - Sep 2024 - Dec 2024 - SoftUni - Java Fundamentals
 - Nov 2024 - Mar 2025 - SoftUni - AI Fundamentals
 - Jan 2025 - Apr 2025 - SoftUni - Java Advanced and OOP
 
-Previous education: 2015 MSc Psychological Therapies; 2008 PhD Social Work; 1994 MA Clinical Psychology
+👨‍🎓 Previous education: 2015 MSc Psychological Therapies; 2008 PhD Social Work; 1994 MA Clinical Psychology
 
-Employment: Family therapist at Cambridgeshire and Peterborough NHS Trust since 2015
+🧑‍💼 Current employment: Family therapist at Cambridgeshire and Peterborough NHS Trust since 2015
 
 <!--
 **tproykov/tproykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
