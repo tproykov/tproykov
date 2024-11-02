@@ -5,6 +5,7 @@ Here I upload my work from my studies in Software Engineering, as well as other 
 - Jan 2025 - Apr 2025 - SoftUni - Java Advanced and OOP
 
 Previous education: 2015 MSc Psychological Therapies; 2008 PhD Social Work; 1994 MA Clinical Psychology
+
 Employment: Family therapist at Cambridgeshire and Peterborough NHS Trust since 2015
 
 <!--
