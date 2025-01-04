@@ -3,6 +3,7 @@ Here I upload my work from my studies in Software Engineering, as well as my oth
 - Sep 2024 - Dec 2024 - SoftUni - Java Fundamentals
 - Nov 2024 - Mar 2025 - SoftUni - AI Fundamentals
 - Jan 2025 - Apr 2025 - SoftUni - Java Advanced and OOP
+- Mar 2025 - Jan 2026 - SoftUni - AI and Machine Learning
 
 👨‍🎓 Previous education: 2015 MSc Psychological Therapies; 2008 PhD Social Work; 1994 MA Clinical Psychology
 
