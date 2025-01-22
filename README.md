@@ -9,6 +9,8 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
 
 🧑‍💼 Current employment: Systemic Family Psychotherapist at Cambridgeshire and Peterborough NHS Trust - since 2015
 
+![Certificates](https://github.com/tproykov/certificates/blob/main/Programming%20Fundamentals%20with%20Java%20-%20September%202024%20-%20Certificate.jpeg)
+
 <!--
 **tproykov/tproykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
