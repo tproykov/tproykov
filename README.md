@@ -1,6 +1,6 @@
 ## Hello 👋 
 Here I upload my coursework from my studies at SoftUni, as well as other current projects 🚀.
-- Sep 2024 - Dec 2024 - SoftUni - Java Fundamentals
+- Sep 2024 - Dec 2024 - SoftUni - Programming Fundamentals with Java
 - Nov 2024 - Mar 2025 - SoftUni - AI Fundamentals: Prompt Engineering and AI Adoption
 - Jan 2025 - Apr 2025 - SoftUni - Java Advanced: Java Advanced and Java OOP
 - Mar 2025 - Jan 2026 - SoftUni - Arificial Intelligence: Maths for Programmers, Data Science, Machine Learning and Deep Learning
