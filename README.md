@@ -11,11 +11,7 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
 
 ![Certificates](https://github.com/tproykov/certificates/blob/main/Programming%20Fundamentals%20with%20Java%20-%20September%202024.jpg)
 ![Certificates](https://github.com/tproykov/certificates/blob/main/MySQL%20-%20September%202024%20-%20Certificate.jpg)
-
-
-
-![Certificates]
-
+![Certificates](https://github.com/tproykov/certificates/blob/main/Prompt%20Engineering%20%26%20AI%20Tools%20November%202024.png)
 
 <!--
 **tproykov/tproykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
