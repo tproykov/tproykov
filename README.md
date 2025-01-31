@@ -15,6 +15,10 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
 
 [![Thumbnail](https://raw.githubusercontent.com/tproykov/certificates/main/Programming%20Fundamentals%20with%20Java%20-%20September%202024.jpg)](https://github.com/tproykov/certificates)
 
+<a href="https://github.com/tproykov/certificates/blob/main/Programming%20Fundamentals%20with%20Java%20-%20September%202024.jpg">
+  <img src="https://github.com/tproykov/certificates/blob/main/Programming%20Fundamentals%20with%20Java%20-%20September%202024.jpg" width="150">
+</a>
+
 <!--
 **tproykov/tproykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
