@@ -17,8 +17,8 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
   <img src="https://github.com/tproykov/certificates/blob/main/MySQL%20-%20September%202024%20-%20Certificate.jpeg" width="150">
 </a>
 
-<a href="https://github.com/tproykov/certificates/blob/main/Prompt%20Engineering%20%26%20AI%20Tools%20November%202024.png">
-  <img src="https://github.com/tproykov/certificates/blob/main/Prompt%20Engineering%20%26%20AI%20Tools%20November%202024.png" width="150">
+<a href="https://github.com/tproykov/certificates/blob/main/Prompt%20Engineering%20%26%20AI%20Tools%20-%20November%202024%20-%20Certificate.jpg">
+  <img src="https://github.com/tproykov/certificates/blob/main/Prompt%20Engineering%20%26%20AI%20Tools%20-%20November%202024%20-%20Certificate.jpg" width="150">
 </a>
 
 
