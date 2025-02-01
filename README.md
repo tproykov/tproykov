@@ -3,9 +3,9 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
 
 | Column 1  | Column 2  |
 |-----------|-----------|
-| Sep 2024 - Dec 2024 - Programming Fundamentals with Java    | Text 2    |
-| Nov 2024 - Mar 2025 - SoftUni - AI Fundamentals: Prompt Engineering and AI Adoption    | Text 4    |
-| Jan 2025 - Apr 2025 - SoftUni - Java Advanced: Java Advanced and Java OOP | More text |
+| Sep 2024 - Dec 2024 - Programming Fundamentals with Java    | Jan 2025 - Mar 2025 - AI Adoption  |
+| Nov 2024 - Jan 2025 - Prompt Engineering and AI Tools   | Text 4    |
+| Jan 2025 - Apr 2025 - Java Advanced: Java Advanced | More text |
 
 - Sep 2024 - Dec 2024 - SoftUni - Programming Fundamentals with Java
 - Nov 2024 - Mar 2025 - SoftUni - AI Fundamentals: Prompt Engineering and AI Adoption
