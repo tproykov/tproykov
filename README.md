@@ -9,12 +9,6 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
 | *Feb 2025 - Mar 2025* - AI Adoption                         | *Dec 2025 - Feb 2025* - Deep Learning                 |
 | *Feb 2025 - Apr 2025* - Java OOP                            |                                                       |
 
-
-- Sep 2024 - Dec 2024 - SoftUni - Programming Fundamentals with Java
-- Nov 2024 - Mar 2025 - SoftUni - AI Fundamentals: Prompt Engineering and AI Adoption
-- Jan 2025 - Apr 2025 - SoftUni - Java Advanced: Java Advanced and Java OOP
-- Mar 2025 - Jan 2026 - SoftUni - Arificial Intelligence: Maths for Programmers, Data Science, Machine Learning and Deep Learning
-
 👨‍🎓 Previous education: 2015 MSc Psychological Therapies; 2008 PhD Social Work; 1994 MA Clinical Psychology
 
 🧑‍💼 Current employment: Systemic Family Psychotherapist at Cambridgeshire and Peterborough NHS Trust - since 2015
