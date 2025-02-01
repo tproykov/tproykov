@@ -1,16 +1,11 @@
 ## Hello 👋 
 Here I upload my coursework from my studies at SoftUni, as well as other current projects 🚀.
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-    <h3>Column 1</h3>
-    <p>This is some content in the first column.</p>
-  </div>
-  <div style="width: 48%;">
-    <h3>Column 2</h3>
-    <p>This is some content in the second column.</p>
-  </div>
-</div>
+| Column 1  | Column 2  |
+|-----------|-----------|
+| Sep 2024 - Dec 2024 - Programming Fundamentals with Java    | Text 2    |
+| Nov 2024 - Mar 2025 - SoftUni - AI Fundamentals: Prompt Engineering and AI Adoption    | Text 4    |
+| Jan 2025 - Apr 2025 - SoftUni - Java Advanced: Java Advanced and Java OOP | More text |
 
 - Sep 2024 - Dec 2024 - SoftUni - Programming Fundamentals with Java
 - Nov 2024 - Mar 2025 - SoftUni - AI Fundamentals: Prompt Engineering and AI Adoption
