@@ -3,11 +3,11 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
 
 |                                                             |                                                       |
 | ----------------------------------------------------------- | ----------------------------------------------------- |
-| *Sep 2024 - Dec 2024* - Programming Fundamentals with Java  | *Mar 2025 - Jun 2025* - Maths for Prorammers          |
-| *Nov 2024 - Jan 2025* - Prompt Engineering and AI Tools     | Feb 2025 - Apr 2025 - Java OOP    |
-| *Jan 2025 - Apr 2025* - Java Advanced                       | More text |
-| *Feb 2025 - Mar 2025* - AI Adoption                         |           |
-| *Feb 2025 - Apr 2025* - Java OOP
+| *Sep 2024 - Dec 2024* - Programming Fundamentals with Java  | *Mar 2025 - Jun 2025* - Math Concepts for Developers  |
+| *Nov 2024 - Jan 2025* - Prompt Engineering and AI Tools     | *Jun 2025 - Aug 2025* - Data Science                  |
+| *Jan 2025 - Apr 2025* - Java Advanced                       | *Sep 2025 - Nov 2025* - Machine Learning              |
+| *Feb 2025 - Mar 2025* - AI Adoption                         | *Dec 2025 - Feb 2025* - Deep Learning                 |
+| *Feb 2025 - Apr 2025* - Java OOP                            |                                                       |
 
 
 - Sep 2024 - Dec 2024 - SoftUni - Programming Fundamentals with Java
