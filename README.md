@@ -3,7 +3,7 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
 
 |                                                             |                                                       |
 | ----------------------------------------------------------- | ----------------------------------------------------- |
-|                                                             | *May 2025 - Jun 2025* - HTML & CSS                    |
+| *Apr 2024 - Jun 2024* - Programming Basics with Java        | *May 2025 - Jun 2025* - HTML & CSS                    |
 | *Sep 2024 - Dec 2024* - Programming Fundamentals with Java  | *Jun 2025 - Aug 2025* - JS Front-End                  |
 | *Sep 2024 - Oct 2024* - MySQL                               | *Jun 2025 - Aug 2025* - Spring Data                   |
 | *Nov 2024 - Jan 2025* - Prompt Engineering and AI Tools     | *Jun 2025 - Aug 2025* - Data Science                  |
