@@ -7,10 +7,10 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
 | *Sep 2024 - Oct 2024* - MySQL                               | *Jun 2025 - Aug 2025* - Data Science                  |
 | *Nov 2024 - Jan 2025* - Prompt Engineering and AI Tools     | *Sep 2025 - Nov 2025* - Machine Learning              |
 | *Jan 2025 - Apr 2025* - Java Advanced                       | *Dec 2025 - Feb 2025* - Deep Learning                 |
-|                                                             |                                                       |
-|                                                             |                                                       |
 | *Feb 2025 - Mar 2025* - AI Adoption                         |                                                       |
 | *Feb 2025 - Apr 2025* - Java OOP                            |                                                       |
+|                                                             |                                                       |
+|                                                             |                                                       |
 
 
 👨‍🎓 Previous education: 2015 MSc Psychological Therapies; 2008 PhD Social Work; 1994 MA Clinical Psychology
