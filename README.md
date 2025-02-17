@@ -6,7 +6,7 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
 | *Sep 2024 - Dec 2024* - Programming Fundamentals with Java  | *Jun 2025 - Aug 2025* - JS Front-End                  |
 | *Sep 2024 - Oct 2024* - MySQL                               | *Jun 2025 - Aug 2025* - Spring Data                   |
 | *Nov 2024 - Jan 2025* - Prompt Engineering and AI Tools     | *Jun 2025 - Aug 2025* - Data Science                  |
-| *Jan 2025 - Apr 2025* - Java Advanced                       | *Sep 2025 - Oct 2025* - Spring Fundamentals           |
+| *Jan 2025 - Feb 2025* - Java Advanced                       | *Sep 2025 - Oct 2025* - Spring Fundamentals           |
 | *Feb 2025 - Mar 2025* - AI Adoption                         | *Sep 2025 - Nov 2025* - Machine Learning              |
 | *Feb 2025 - Apr 2025* - Java OOP                            | *Oct 2025 - Dec 2025* - Spring Advanced               |
 | *Mar 2025 - Jun 2025* - Math Concepts for Developers        | *Dec 2025 - Feb 2026* - Deep Learning                 |
