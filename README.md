@@ -31,6 +31,13 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
   <img src="https://github.com/tproykov/certificates/blob/main/Java_Advanced%20-%20January%202025%20-%20Certificate.jpeg" width="150">
 </a>
 
+<a href="https://github.com/tproykov/certificates/blob/main/Java_OOP_-_February_2025%20-%20Certificate.jpeg">
+  <img src="https://github.com/tproykov/certificates/blob/main/Java_OOP_-_February_2025%20-%20Certificate.jpeg" width="150">
+</a>
+
+
+https://github.com/tproykov/certificates/blob/main/Java_OOP_-_February_2025%20-%20Certificate.jpeg
+
 <!--
 **tproykov/tproykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
