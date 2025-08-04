@@ -39,6 +39,10 @@ Here I upload my coursework from my studies at SoftUni, as well as other current
   <img src="https://github.com/tproykov/certificates/blob/main/AI_Adoption_-_February_2025_-_Certificate_optimized.png" width="150">
 </a>
 
+<a href="https://github.com/tproykov/certificates/blob/main/Spring_Data_-_June_2025_-_Certificate.jpeg">
+  <img src="https://github.com/tproykov/certificates/blob/main/Spring_Data_-_June_2025_-_Certificate.jpeg" width="150">
+</a>
+
 <!--
 **tproykov/tproykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
